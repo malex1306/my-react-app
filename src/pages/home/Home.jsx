@@ -5,6 +5,7 @@ import SideBar from "../../sidebar/SideBar";
 import Posts from "../../posts/Posts";
 
 
+
 export default function Home() {
   return (
     <>
