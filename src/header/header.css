@@ -26,7 +26,7 @@
     position: absolute;
     top: 16%;
     font-size: 40px;
-    color: lightpink;
+    color: #feebed;
     display: block; /* Damit die Elemente untereinander stehen */
     
   }
@@ -37,4 +37,5 @@
     height: 450px;
     margin-top: 80px;
     object-fit: cover;
+    border-radius: 15px;
   }
