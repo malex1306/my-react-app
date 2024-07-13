@@ -14,8 +14,8 @@ export default function Settings() {
             <label>Profile picture</label>
             <div className="settingsPP">
               <img 
-              src="" 
-              alt="" 
+              src={`${process.env.PUBLIC_URL}/Setting.jpg`} 
+              alt="Setting" 
               />
               <label htmlFor="fileImput">
               <i className="settingsPPIcon fa-regular fa-circle-user"></i>
